@@ -1,2 +1,2 @@
 # hello-world
-mon premeir programme
+mon premier programme
